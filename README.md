@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there!<br>I'm a Computer Science student currently diving into Unity game development. I'm passionate about creating interactive and creative experiences through small personal projects.<br><br> 🎯 My goal is to become a professional Unity Developer and contribute to real-world game projects in the near future.<br><br>👉 Always open to learning, collaborating, and sharing!
+# 💫 Welcome to my page!
+👋 Hi there!<br>I'm a Computer Science student currently diving into Unity game development. I'm passionate about creating interactive and creative experiences through small personal projects.<br><br> 🎯 My goal is to become a professional Unity Developer and contribute to real-world game projects in the near future.<br><br>👉 Always open to learning, collaborating, and sharing!<br><br>🎮 Check out my game projects on [itch.io](https://trsilwi.itch.io/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rank.tran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/duy-anh-tran-074243242/) [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white)]([https://yourusername.itch.io](https://trsilwi.itch.io/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:duyanh2777@gmail.com) 
